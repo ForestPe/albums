@@ -1,0 +1,17 @@
+.album-enter {
+    opacity: 0;
+}
+
+.album-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.album-exit {
+    opacity: 1;
+}
+
+.album-exit-active {
+    opacity: 0;
+    transition: opacity 500ms ease-in;
+}

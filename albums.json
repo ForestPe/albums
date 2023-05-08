@@ -1,0 +1,73 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Black Sabbath - Sabotage",
+      "year": "1975",
+      "genre": "metal",
+      "description": "Imposible album!"
+    },
+    {
+      "id": 2,
+      "name": "Alice In Chains - Jar Of Flies",
+      "year": "1994",
+      "genre": "grunge",
+      "description": "So sad album"
+    },
+    {
+      "id": 3,
+      "name": "The Verve - A Storm In Heaven",
+      "year": "1993",
+      "genre": "psychedelic",
+      "description": "Magic album from The Verve"
+    },
+    {
+      "id": 4,
+      "name": "Pink Floyd - The Dark Side Of The Moon",
+      "year": "1973",
+      "genre": "rock",
+      "description": "The Best"
+    },
+    {
+      "id": 5,
+      "name": "Black Sabbath - Sabotage",
+      "year": "1975",
+      "genre": "metal",
+      "description": "Imposible album!"
+    },
+    {
+      "id": "ebc23ee8-1859-4418-b1ee-0b351cab51a2",
+      "name": "forestpe",
+      "year": "12312",
+      "genre": "grunge",
+      "descr": "asdas"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "metal",
+      "label": "Metal",
+      "className": "btn-danger"
+    },
+    {
+      "name": "grunge",
+      "label": "Grunge",
+      "className": "btn-primary"
+    },
+    {
+      "name": "psychedelic",
+      "label": "Psychedelic",
+      "className": "btn-success"
+    },
+    {
+      "name": "rock",
+      "label": "Rock",
+      "className": "btn-secondary"
+    }
+  ]
+}
